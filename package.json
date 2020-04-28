@@ -1,6 +1,6 @@
 {
   "name": "@dropecho/behavior-tree",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A behavior tree implementation.",
   "author": "vantreeseba <vantreeseba@gmail.com>",
   "repository": "github:dropecho/behavior-tree",
