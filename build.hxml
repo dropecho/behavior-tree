@@ -1,6 +1,6 @@
 --times
 
 -cp src
--js bin/js/dropecho.js
+-js bin/js/behavior-tree.js
 
 --macro include('',true, null, ['src'])

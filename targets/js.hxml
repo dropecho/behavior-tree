@@ -1,6 +1,0 @@
---times
-
--cp src
--js dist/js/behavior-tree.js
-
---macro include('',true, null, ['src'])
